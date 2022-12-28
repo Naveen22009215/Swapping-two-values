@@ -18,6 +18,7 @@ Print both the values it would be interchanged
 ### Step 6: 
 End the program
 ## PROGRAM:
+```
 #Program to swap two values.
 #Developed by: Naveen kumar
 #RegisterNumber:22009215
@@ -27,12 +28,13 @@ temp=n1
 n1=n2
 n2=temp
 print("Swapped values are:",n1,n2)
+```
 ## OUTPUT:
 ![SWAPING](/OUTPUT%201.jpg)
 
 
 ## RESULT:
-Thus the swapping of two values are successfully executed
+Thus the python program for swapping of two values was executed successfully.
 
 
 
